@@ -1,0 +1,95 @@
+﻿  sfml_testapp.cpp
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(187): warning C4305: =: усечение из "double" в "float"
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(198): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(204): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(206): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(226): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(227): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(233): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(236): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(243): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(246): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(254): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(257): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(264): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(267): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(273): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(276): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(300): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(303): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(310): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(313): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(428): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(476): warning C4305: =: усечение из "double" в "float"
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(480): warning C4305: =: усечение из "double" в "float"
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(491): warning C4305: =: усечение из "double" в "float"
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(507): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\sfml testapp\sfml testapp\sfml_testapp.cpp(589): error C4716: startGame: должна возвращать значение

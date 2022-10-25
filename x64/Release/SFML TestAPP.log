@@ -1,0 +1,2 @@
+﻿  sfml_testapp.cpp
+c:\users\user\source\repos\лесной ёжик игра\sfml testapp\sfml_testapp.cpp(1): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
